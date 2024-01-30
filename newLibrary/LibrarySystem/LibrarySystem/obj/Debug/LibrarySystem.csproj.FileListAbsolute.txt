@@ -1,7 +1,0 @@
-C:\Users\yaren\Desktop\newLibrary\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
-C:\Users\yaren\Desktop\newLibrary\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
-C:\Users\yaren\Desktop\newLibrary\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
-C:\Users\yaren\Desktop\newLibrary\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
-C:\Users\yaren\Desktop\newLibrary\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
-C:\Users\yaren\Desktop\newLibrary\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
-C:\Users\yaren\Desktop\newLibrary\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb

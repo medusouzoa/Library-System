@@ -1,7 +1,0 @@
-To Kill a Mockingbird,Harper Lee,9780061120084,1.01.2024 00:00:00
-The Great Gatsby,F. Scott Fitzgerald,9780743273565,15.02.2023 00:00:00
-Harry Potter and the Sorcerer's Stone,J.K. Rowling,9780590353427,18.01.2024 00:00:00
-The Lord of the Rings,J.R.R. Tolkien,9780618640157,20.01.2024 00:00:00
-The Hobbit,J.R.R. Tolkien,9780618002214,3.01.2024 00:00:00
-The Hobbit,J.R.R. Tolkien,9780618002214,19.01.2024 00:00:00
-The Hobbit,J.R.R. Tolkien,9780618002214,30.01.2024 00:00:00
