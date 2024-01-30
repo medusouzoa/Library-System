@@ -1,0 +1,10 @@
+To Kill a Mockingbird,Harper Lee,9780061120084,5,1
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,3,1
+1984,George Orwell,9780451524935,4,0
+The Catcher in the Rye,J.D. Salinger,9780241950432,2,0
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,9780590353427,6,1
+The Lord of the Rings,J.R.R. Tolkien,9780618640157,4,1
+The Da Vinci Code,Dan Brown,9780307474278,3,0
+The Hobbit,J.R.R. Tolkien,9780618002214,5,3
+Pride and Prejudice,Jane Austen,9780143105428,4,0
+The Hunger Games,Suzanne Collins,9780439023481,3,0
