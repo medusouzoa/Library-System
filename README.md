@@ -9,4 +9,5 @@ The Library Management System is a simple console application developed in C#.
 - View the list of all books in the library.
 - Search for books by title or author.
 - Borrow and return books, updating the available copies.
-- View information about overdue books.
+- Show expired dated books.
+- List the borrowed books.
